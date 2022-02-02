@@ -4,9 +4,9 @@ const fetch = require('node-fetch'),
     request = require('request'),
     client = new Discord.Client(),
     XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest,
-    admins = ["yourid", "yourid", "yourid"],
+    admins = ["784956011613126678", "yourid", "yourid"],
     config = {
-        "yourroleid": 1500,
+        "yourroleid": 938525357282320494,
         "yourroleid": 75,
         "yourroleid": 50,
         "yourroleid": 20,
@@ -245,4 +245,4 @@ client.on("guildMemberAdd", async (member) => {
     }
 })
 
-client.login("Token")
+client.login("proce")
